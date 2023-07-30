@@ -23,6 +23,8 @@
   
 🎮 Swink_Client: 대외비 프로젝트
 
+🎮 NextJS를 이용한, 웹게임 플랫폼 개발 진행중
+
 ## Skill
 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
