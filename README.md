@@ -14,8 +14,10 @@
 ## Contact
 
  📧:이메일: dmstjdhdh@cau.ac.kr
-  
- ✍️:블로그: [제작예정]
+
+ 📧:Open_Kakao: https://open.kakao.com/o/shXnTOxf
+ 
+ ✍️:개인 블로그: [제작중]
 
 ## Project
   
@@ -23,19 +25,17 @@
   
 🎮 Swink_Client: 대외비 프로젝트
 
-🎮 NextJS를 이용한, 웹게임 플랫폼 개발 진행중
+🎮 웹게임 플랫폼 개발 진행중
 
-## Skill
 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  
- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  
- <img src="https://img.shields.io/badge/Cocos-55C2E1?style=flat&logo=cocos&logoColor=white"/>
-  
- <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>
-  
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+
+## Language
+
+
+
+## Framework
+
+## Game_Engine
  
 
 ## Problem_Solving
