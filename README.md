@@ -7,7 +7,7 @@
   
 🏫:중앙대학교 소프트웨어학부 20학번 휴학중.
 
-🏢:산업기능요원 클라이언트 개발직 수행중 (2023.02.06~2025.01.05 전역) 전직업체 구직 시작 (7/31 ~ 진행중)
+🏢:산업기능요원 클라이언트 개발직 수행중 전직업체 구직 시작 (7/31 ~ 진행중)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmstjdhdh&show_icons=true&theme=radical)
 
@@ -21,7 +21,7 @@
 
 ## Project
   
-🎮 Kiris: 횡스크롤 이동 기반 퍼즐게임 Project_Manager, Side_Project
+🎮 Kiris: Project_Manager, Side_Project
   
 🎮 Swink_Client: 대외비 프로젝트
 
