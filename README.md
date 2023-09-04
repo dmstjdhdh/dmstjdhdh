@@ -46,8 +46,8 @@
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/8b72ba8d-3df3-4dd5-ac26-778409fdb9e8" width="100">
 
 ## CI/CD
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/25d656fd-3f2d-4e98-a42c-ebaa9d172c45" width = "100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/2fac43e2-e342-463c-ab27-17742053cf5c" width = "100">
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/1c0ae909-ad8e-4795-b2d0-ec3b52b69587" width = "100">
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/72c8ed9e-d190-43c8-aaab-0cd0e31f9fac" width = "100">
 
 ## Problem_Solving
 
