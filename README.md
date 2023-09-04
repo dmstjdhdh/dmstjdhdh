@@ -7,7 +7,7 @@
   
 🏫:중앙대학교 소프트웨어학부 20학번 휴학중.
 
-🏢:산업기능요원 클라이언트 개발직 수행중 전직업체 구직 시작 (7/31 ~ 진행중)
+🏢:산업기능요원 클라이언트 개발직 수행중 전직업체 구직 시작 (8/6부터 전직 가능)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmstjdhdh&show_icons=true&theme=radical)
 
@@ -42,10 +42,12 @@
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/8b72ba8d-3df3-4dd5-ac26-778409fdb9e8" width="100">
 
 ## Game_Engine
- 
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0f9c455c-1705-421f-a292-9338ad26c923" width="100">
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/8b72ba8d-3df3-4dd5-ac26-778409fdb9e8" width="100">
 
-##CI/CD
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/1c0ae909-ad8e-4795-b2d0-ec3b52b69587" width = "100">
+## CI/CD
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/25d656fd-3f2d-4e98-a42c-ebaa9d172c45" width = "100">
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/2fac43e2-e342-463c-ab27-17742053cf5c" width = "100">
 
 ## Problem_Solving
 
