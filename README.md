@@ -30,8 +30,17 @@
 
 
 ## Language
+<p align="center">
+  <img src="이미지URL">
+</p>
 
+<p align="center">
+  <img src="이미지URL">
+</p>
 
+<p align="center">
+  <img src="이미지URL">
+</p>
 
 ## Framework
 
