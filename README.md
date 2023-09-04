@@ -31,7 +31,7 @@
 
 ## Language
 <p align="center">
-  <img src="[이미지URL](https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d)">
+  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d">
 </p>
 
 <p align="center">
