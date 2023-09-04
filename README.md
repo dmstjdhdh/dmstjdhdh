@@ -30,17 +30,9 @@
 
 
 ## Language
-<p align="right">
-  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d" width="200">
-</p>
-
-<p align="right">
-  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/d932344c-cb17-4dd4-994a-514fc521f549" width="200">
-</p>
-
-<p align="right">
-  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0e9950a2-1130-4bea-8645-e8c2f0fe48eb" width="200">
-</p>
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d" width="200">
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/d932344c-cb17-4dd4-994a-514fc521f549" width="200">
+<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0e9950a2-1130-4bea-8645-e8c2f0fe48eb" width="200">
 
 ## Framework
 
