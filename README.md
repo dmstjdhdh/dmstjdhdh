@@ -30,31 +30,17 @@
 
 
 ## Language
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .image-container {
-      display: flex;
-      justify-content: flex-end; /* 이미지를 오른쪽으로 정렬합니다. */
-    }
+<p align="right">
+  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d" width="200">
+</p>
 
-    .image {
-      width: 200px; /* 이미지의 너비를 조정합니다. */
-      margin-left: 10px; /* 이미지 사이의 간격을 조정합니다. */
-    }
-  </style>
-</head>
-<body>
-  <div class="image-container">
-    <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d" class="image">
-    <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/d932344c-cb17-4dd4-994a-514fc521f549" class="image">
-    <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0e9950a2-1130-4bea-8645-e8c2f0fe48eb" class="image">
-  </div>
-</body>
-</html>
+<p align="right">
+  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/d932344c-cb17-4dd4-994a-514fc521f549" width="200">
+</p>
+
+<p align="right">
+  <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0e9950a2-1130-4bea-8645-e8c2f0fe48eb" width="200">
+</p>
 
 ## Framework
 
