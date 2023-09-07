@@ -21,14 +21,22 @@
 
 ## Project
   
-🎮 Kiris: Project_Manager, Side_Project
+🎮 Kiris: Project_Manager(Team Muzik), Side_Project (Service Main Leader의 꿈을 향해서...!)
+
+### 키리팡 (게임 리소스 개발단에 투여 단계, 11월 말 애플스토어 배포 예상)
+![image](https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/23a0a6a3-811f-4a8a-aecc-301446d82263)
+### 키리스 액션 플래포머 (컨셉 디자인 및 스토리 구상 단계, 2024년 11월 말 Steam 배포 목표!!)
+![image](https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/e63bce9e-e94c-489e-870a-161b585320a1)
+
+현황 공유 링크 : [현재 비공개]
   
-🎮 Swink_Client: 대외비 프로젝트
+🎮 Team Muzik: 서비스 기획, 디자이너, 개발자, Project_Manager(본인)으로 이루어져있는, 개발팀! 현재 게임개발을 중심으로 프로젝트 진행중.
 
-🎮 웹게임 플랫폼 개발 진행중
+팀원 소개 웹사이트 : [9월 중순 공개], Full-Stack(Next.js)한 홍보 웹사이트 제작중
 
 
 
+# Stack
 ## Language
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d" width="100">
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/d932344c-cb17-4dd4-994a-514fc521f549" width="100">
