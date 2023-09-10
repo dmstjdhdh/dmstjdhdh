@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Junior%20Client_Developer&fontSize=40)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Junior%20Frontend_Developer&fontSize=40)
  <div align=left>
 
   # dmstjdhdh
@@ -8,7 +8,7 @@
 🏫:중앙대학교 소프트웨어학부 20학번 휴학중.
 
 🏢:산업기능요원 클라이언트 개발직 수행중 전직업체 구직 시작 (8/6부터 전직 가능)
-Front-End 개발직으로 포지션 변경을 원하고 있습니다.
+Front-End 개발직으로 전직을 원하고 있습니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmstjdhdh&show_icons=true&theme=radical)
 
