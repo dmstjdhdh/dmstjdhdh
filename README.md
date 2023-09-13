@@ -1,7 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Junior%20Frontend_Developer&fontSize=40)
  <div align=left>
 
-  # dmstjdhdh
+  # 김용우(Subin)
 
 👨:김용우(Kim_Yong_Woo)
   
@@ -20,13 +20,13 @@ Front-End 개발직으로 전직을 원하고 있습니다.
  
  ✍️:개인 블로그: [제작중]
 
-## Project
+## Side_Project
   
-🎮 Kiris: Project_Manager(Team Muzik), Side_Project (Service Main Leader의 꿈을 향해서...!)
+🎮 Kiris: Project_Manager(기획 및 프로젝트 설계자.), Side_Project.
 
 ### 키리팡 (게임 리소스 개발단에 투여 단계, 11월 말 애플스토어 배포 예상)
 ![image](https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/23a0a6a3-811f-4a8a-aecc-301446d82263)
-### 키리스 액션 플래포머 (컨셉 디자인 및 스토리 구상 단계, 2024년 11월 말 Steam 배포 목표!!)
+### 키리스 액션 플래포머 (컨셉 디자인 및 스토리 구상 단계, 2024년 11월 말 Steam 배포 목표)
 ![image](https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/e63bce9e-e94c-489e-870a-161b585320a1)
 
 현황 공유 링크 : [현재 비공개]
