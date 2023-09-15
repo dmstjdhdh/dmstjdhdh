@@ -32,24 +32,10 @@ Front-End 개발직으로 전직을 원하고 있습니다.
 ## Language
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/64fa8f0f-0c18-46ce-9a85-4bf07704ca7d" width="100">
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/d932344c-cb17-4dd4-994a-514fc521f549" width="100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0e9950a2-1130-4bea-8645-e8c2f0fe48eb" width="100">
 
-## Framework&&library
+## Framework
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/647c412f-7667-43c0-b4ff-7ba571f9275c" width="100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/3d7c0fb2-d082-46b5-a48f-4ec58f05d53d" width="100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/48a76f82-c133-4a1e-9560-2d1e9a6fa05b" width="100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/0f9c455c-1705-421f-a292-9338ad26c923" width="100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/8b72ba8d-3df3-4dd5-ac26-778409fdb9e8" width="100">
 
 ## Game_Engine
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/25d656fd-3f2d-4e98-a42c-ebaa9d172c45" width="100">
 <img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/2fac43e2-e342-463c-ab27-17742053cf5c" width="100">
-
-## CI/CD
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/1c0ae909-ad8e-4795-b2d0-ec3b52b69587" width = "100">
-<img src="https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/72c8ed9e-d190-43c8-aaab-0cd0e31f9fac" width = "100">
-
-## Problem_Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dmstjdhdh)](https://solved.ac/dmstjdhdh)<br/>
-</div>
