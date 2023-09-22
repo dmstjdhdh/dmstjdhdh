@@ -7,8 +7,7 @@
   
 🏫:중앙대학교 소프트웨어학부 20학번 휴학중.
 
-🏢:산업기능요원 클라이언트 개발직 수행중 전직업체 구직 시작 (8/6부터 전직 가능)
-Front-End 개발직으로 전직을 원하고 있습니다.
+🏢:자유
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstjdhdh&langs_count=10&layout=compact&theme=dark)](https://github.com/dmstjdhdh/dmstjdhdh)
 
