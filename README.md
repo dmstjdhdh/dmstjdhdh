@@ -23,10 +23,10 @@
 
 ## Side_Project
   
-🎮 Kiris: Project_Manager(기획 및 프로젝트 설계자.), Side_Project.
+🎮 Kiris: Project_Manager, ip Creator
 
 ### 키리팡 (게임 리소스 개발단에 투여 단계, 11월 말 애플스토어 배포 예상)
-![image](https://github.com/dmstjdhdh/dmstjdhdh/assets/71542970/23a0a6a3-811f-4a8a-aecc-301446d82263)
+
 ### 키리스 액션 플래포머 (컨셉 디자인 및 스토리 구상 단계, 2024년 11월 말 Steam 배포 목표)
 
 # Stack
