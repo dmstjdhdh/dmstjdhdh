@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Junior%20FE_Developer&fontSize=40)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Junior%20Client_Developer&fontSize=40)
  <div align=left>
 
   # 김용우(Subin)
