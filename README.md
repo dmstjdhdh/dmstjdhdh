@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating Web Frontend, WebGL Content or Game <br>📚 interested in creating lively content. </p>
+<p align="left">✨ Study Graphics and Client Development <br>📚 interested in creating lively content. </p>
 
 ###
 
